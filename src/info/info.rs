@@ -445,7 +445,7 @@ pub fn get_terminal() -> Result<String, String> {
         "csh","tcsh","fish","dash","pwsh","nu",
         "git-shell","elvish","oil.ovm",
         "xonsh","login","proot","script","init","systemd",
-        "nvim","vim","emacs"
+        "nvim","vim","emacs" , "node"
     ];
 
     loop {
